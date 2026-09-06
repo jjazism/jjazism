@@ -26,19 +26,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo:
 
-<p align="left">
-  <a href="https://twitter.com/jjazi7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" target="_blank" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/henrique_j77" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" target="_blank" alt="Instagram" />
-  </a>
-  <a href="mailto:jjazism@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" target="_blank" alt="Gmail" />
-  </a>
-</p>
 
 
 
