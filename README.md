@@ -63,16 +63,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jjazism&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjazism&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjazism&theme=radical&hide_border=true" alt="streak stats" />
-</p>
 
 ---
 
