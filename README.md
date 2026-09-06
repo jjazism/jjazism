@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Henrique ⚡</h1>
 
-<h3 align="center">Estudante de ADS </h3>
+<h3 align="center">Estudante de ADS | Futuro Desenvolvedor </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+HTML%2C+CSS+e+JavaScript;Sempre+aprendendo+algo+novo%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo%21" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🚀 Buscando evoluir e aprender novas tecnologias
 ---
 
-### 🌐 Connect with me:
+### 🌐 Conecte-se comigo:
 
 <p align="left">
   <a href="https://twitter.com/jjazi7" target="_blank">
