@@ -16,6 +16,16 @@
 - 🚀 Buscando evoluir e aprender novas tecnologias
 ---
 
+---
+
+### 💻 Skills:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Skills" />
+</p>
+
+---
+
 ### 🌐 Conecte-se comigo:
 
 <p align="left">
@@ -30,15 +40,7 @@
   </a>
 </p>
 
----
 
-### 💻 Skills:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Skills" />
-</p>
-
----
 
 ### 📁 Projetos em Destaque
 
