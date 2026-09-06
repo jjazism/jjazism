@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Henrique ⚡</h1>
 
-<h3 align="center">Estudante de ADS | Desenvolvedor Front-end em formação</h3>
+<h3 align="center">Estudante de ADS </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+HTML%2C+CSS+e+JavaScript;Sempre+aprendendo+algo+novo%21" alt="Typing SVG" />
@@ -13,8 +13,7 @@
 - 🖥️ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - ⚙️ Focado em desenvolvimento **Front-end**
 - 🧩 Aprendendo e praticando **HTML, CSS e JavaScript**
-- 🚀 Buscando evoluir e construir novos projetos a cada dia
-
+- 🚀 Buscando evoluir e aprender novas tecnologias
 ---
 
 ### 🌐 Connect with me:
@@ -33,7 +32,7 @@
 
 ---
 
-### 💻 Languages and Tools:
+### 💻 Skills:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Skills" />
@@ -79,4 +78,4 @@
   <img src="https://komarev.com/ghpvc/?username=jjazism&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
 </p>
 
-<p align="center"><i>💾 Feito com dedicação por Henrique</i></p>
+
