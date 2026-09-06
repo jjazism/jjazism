@@ -76,8 +76,14 @@
 
 ---
 
+### 🐍 Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jjazism/jjazism/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jjazism&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
 </p>
-
-
