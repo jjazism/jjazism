@@ -37,14 +37,14 @@
     <td>
       <h4>💼 Portfólio</h4>
       <p>Meu site de portfólio pessoal, desenvolvido com HTML, CSS e JavaScript.</p>
-      <a href="https://jjazism.github.io/projeto-portfolio/" target="_blank">↗ Ver projeto</a>
+      <a href="https://hhhenriqj.github.io/projeto-portfolio/" target="_blank">↗ Ver projeto</a>
     </td>
   </tr>
   <tr>
     <td>
       <h4>🔒 Tela de Login</h4>
       <p>Projeto de uma tela de login responsiva e estilizada.</p>
-      <a href="https://jjazism.github.io/projeto-login/" target="_blank">↗ Ver projeto</a>
+      <a href="https://hhhenriqj.github.io/projeto-login/" target="_blank">↗ Ver projeto</a>
     </td>
   </tr>
 </table>
